@@ -15,8 +15,16 @@
 
 
 /* Navigation */
+a:link{
+    color: black;
+}
+a:visited{
+    
+}
 
-
+a:hover{
+    
+}
 /* Typography */
 
 
