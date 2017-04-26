@@ -1,4 +1,5 @@
 //Scripts
-$('h1').lettering();
+
+$('hi').lettering();
 
 $('video').mediaelementplayer();
