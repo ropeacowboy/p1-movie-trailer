@@ -1,5 +1,5 @@
-//Scripts
+// Lettering
+$('h1').lettering();
 
-$('hi').lettering();
-
+// Video Player
 $('video').mediaelementplayer();
