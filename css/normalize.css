@@ -2,6 +2,9 @@
 
 /* Document
    ========================================================================== */
+body{
+    background-color:#47CCA6;
+}
 
 /**
  * 1. Correct the line height in all browsers.
@@ -37,7 +40,7 @@ section {
  */
 
 h1 {
-  font-size: 2em;
+  font-size: 8em;
   margin: 0.67em 0;
 }
 
