@@ -3,9 +3,39 @@
 /***************/
 
 /* Color Palette */
+div.color-1{background:#A33EB2
+}
+div.color-2{background:#FFE18B}
+div.color-3{background:#ED72FF}
+div.color-4{background:#47CCA6}
+div.color-5{background:#1F4036}
 
 
 /* Textures or Patterns*/
+div.pattern-1{
+    background:url("../../img/grunge.jpg");
+    background-size:cover;
+}
+div.pattern-2{
+    background:url("../../img/green_texture_square.jpg");
+    background-size:cover;
+}
+div.pattern-3{
+    background:url("../../img/cracked.jpg");
+    background-size:cover;
+}
+div.pattern-4{
+    background:url("../../img/rose.jpg");
+    background-size:cover;
+}
+div.pattern-5{
+    background:url("../../img/wood.jpg");
+    background-size:cover;
+}
+div.pattern-6{
+    background:url("../../img/tiles.jpg");
+    background-size:cover;
+}
 
 
 /* Imagery */
