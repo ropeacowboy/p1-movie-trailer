@@ -31,11 +31,19 @@ article{
     color:#1F4036;
     text-indent:40px;
 }
+
+p{
+    font-family: 'Yanone Kaffeesatz', sans-serif;
+}
 img{
     padding:20px;
 }
 url{
     display:inline-block;
+}
+ul{
+    text-align:left;
+    list-style-type:none;
 }
 
 blockquote{
@@ -45,13 +53,13 @@ blockquote{
 }
  a{
     text-decoration:none;
-     color:#ED72FF;
+     color:#A33EB2;
 }
 a:hover{
     color:#FFE18B;
 }
 a:visited{
-    color:#A33EB2;
+    color:aquamarine;
 }
 footer{
     text-align:right;
