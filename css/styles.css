@@ -8,12 +8,13 @@ body{
 }
 #content{
     position:relative;
-    max-width:80%;
+    max-width:100%;
     margin:0,auto;
     
 }
 h1{
     color:#A33EB2;
+    font-family: 'Audiowide', cursive;
     text-align:center;
     font-size:4em;
     background-image: url("../../img/tiles.jpg");
@@ -30,8 +31,17 @@ article{
     color:#1F4036;
     text-indent:40px;
 }
+img{
+    padding:20px;
+}
 url{
     display:inline-block;
+}
+
+blockquote{
+    color:#FFE18B;
+    padding:10px;
+    background-image:url("../img/rose.jpg");
 }
  a{
     text-decoration:none;
@@ -45,5 +55,5 @@ a:visited{
 }
 footer{
     text-align:right;
-    font-size:12px;
+    font-size:8px;
 }
